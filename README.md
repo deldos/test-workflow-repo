@@ -1,1 +1,2 @@
-IyBUZXN0IFdvcmtmbG93IFJlcG9zaXRvcnkKRm9yIHRlc3RpbmcgR2l0SHViIHdvcmtmbG93cyBhbmQgY29uZmlndXJhdGlvbnMu
+# Test Repository
+This is a test repository for checking GitHub API functionality.
